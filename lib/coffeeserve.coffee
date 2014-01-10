@@ -12,5 +12,5 @@ module.exports.middleware = (source) ->
 		file = path[path.length-1]
 		extention = file[1]
 		if extention = 'js'
-			builder.makefile file[0],source, (data) ->
+			module.exports.makefile file[0],source, (data) ->
 				res.send data
