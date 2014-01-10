@@ -11,6 +11,7 @@
     "url": "git://github.com/mrmakeit/coffeeserve.git"
   },
   "author": "Blixa Morgan <blixa@projectmakeit.com>",
+  "main": "lib/coffeeserve.js",
   "license": "GPL",
   "bugs": {
     "url": "https://github.com/mrmakeit/coffeeserve/issues"
