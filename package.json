@@ -1,14 +1,14 @@
 {
   "name": "coffeeserve",
   "version": "0.0.0",
-  "description": "Web server that precomiles both server and client coffee scripts",
-  "main": "app.js",
+  "description": "CoffeeServe ===========",
+  "main": "builder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "github.com/mrmakeit/coffeeserve"
+    "url": "git://github.com/mrmakeit/coffeeserve.git"
   },
   "author": "Blixa Morgan <blixa@projectmakeit.com>",
   "license": "GPL",
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/mrmakeit/coffeeserve",
   "dependencies": {
-    "coffee-script": "~1.6.3",
-    "express": "~3.4.7"
+    "coffee-script": "~1.6.3"
   }
 }
