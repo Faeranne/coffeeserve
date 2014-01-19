@@ -19,3 +19,7 @@ Project that use CoffeeServe:
 
 If your interested in seeing CoffeeServe avalible for another framework, post an issue.
 Or better yet, send a Pull Request!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mrmakeit/coffeeserve/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
